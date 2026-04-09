@@ -1,0 +1,38 @@
+/* TESTE */
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    font-size: 16px;
+}
+
+header{
+    background-color: rgb(194, 86, 44);
+    margin: 0 auto;
+    width: 70%;
+}
+
+h1{
+    text-align: center;
+}
+
+nav{
+    
+    margin: 0 auto;
+    width: 70%;
+}
+ul {
+  width: 200px;
+  background-color: #e7e409;
+}
+
+li a {
+  display: block;      /* Faz o link ocupar a largura toda */
+  color: #d80000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #6200ff;
+  color: rgb(83, 123, 124);
+}  
